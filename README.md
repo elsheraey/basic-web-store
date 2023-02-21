@@ -1,6 +1,6 @@
 # basic-web-store
 
-*Please note that this repository was created as a task to guide a young man through the basics of web development, but it can be used by anyone who wants to illustrate, learn more about how to reach a similar goal, or even use it as a take-home assignment for junior developers.*
+*Please note that this repository was created as a task to guide a young man through the basics of web development, but it can be used by anyone who wants to illustrate, learn more about how to reach a similar goal, or even use it as a take-home assignment for junior frontend developers.*
 
 The code is in HTML, CSS, and JS over three different branches reflecting and named after the phases outlined below excluding the last one.
 
