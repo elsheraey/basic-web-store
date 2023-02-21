@@ -50,3 +50,10 @@ Let's refactor the site to become a Single Page Application, where we load all t
 
 - Construct the dropdown menu dynamically using a `for...in` loop through the properties of products. Avoid hardcoding the words "books" and "albums" in your code.
 Check to see if you can add a third category like electronics to the products object and not have to change a single line of code to have your page still work. If not, make the necessary adjustments.
+
+## Final Phase
+
+- Add a search box and show only products whose names or features include that word.
+- Add a button to create a new product; this could be a book, music album or other product.
+- Clicking the add button should display a form for you to enter the relevant information.
+- Convert the developed page to use ReactJS.
