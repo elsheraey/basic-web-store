@@ -1,4 +1,4 @@
-# initial-phase
+# single-page
 
 ## Preview
 ![preview](/preview.jpg)
