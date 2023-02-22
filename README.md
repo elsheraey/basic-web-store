@@ -1,4 +1,4 @@
-# single-page
+# generalization
 
 ## Preview
 ![preview](/preview.jpg)
